@@ -8,6 +8,10 @@ module.exports = {
         extend: {
             colors: {
                 customGreen: '#7ac06e',
+                customBlue: '#1860a8'
+            },
+            fontSize: {
+                '24': '24px', // Define your custom font size
             },
         },
     },
